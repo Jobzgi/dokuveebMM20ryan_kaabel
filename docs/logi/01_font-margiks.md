@@ -18,8 +18,16 @@ Siin on mu Apple uue logo disainid.
 
 ## Kass
 Siin on minu tehtud kassi logo koos sõnaga "KASS"
+
 ![Nimi märgiks](./images/KIISU.png)
 
+## Siin on järgmine kass
+Ülesandeks oli referentspildi järgi joonistada kass.
+
+![Nimi märgiks](./images/kiisud22.png)
+
+## Vapp
+Siin oli vaja teha visandi ülejoonistamist.
 
 
 

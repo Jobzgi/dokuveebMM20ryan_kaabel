@@ -41,6 +41,9 @@ Siin on minu tehtud kassi logo koos sõnaga "KASS"
 Siin oli vaja teha visandi ülejoonistamist.
 ![Nimi märgiks](./images/vapp.png)
 
+## Negatiivne ruum, reversioon, esiplaan-tagaplaan
+Ülesandeks oli teha plakat kasutades negatiivset ruumi.
+![Nimi märgiks](./images/astuvalja.jpg)
 
 
 

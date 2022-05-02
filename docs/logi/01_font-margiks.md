@@ -47,5 +47,3 @@ Siin oli vaja teha visandi ülejoonistamist.
 
 
 
-
-
